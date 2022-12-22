@@ -24,12 +24,17 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 # Mock-up
-![alt="Top portion of webpage with navigation"](../week1-challenge/assets/images/Screenshot%202022-12-22%20at%208.42.26%20AM.png)
-![alt="Middle portion of the webpage"](../week1-challenge/assets/images/Screenshot%202022-12-22%20at%208.42.59%20AM.png)
-![alt="Bottom portion of the webpage with navigation"](../week1-challenge/assets/images/Screenshot%202022-12-22%20at%208.43.12%20AM.png)
+![alt="Top portion of webpage with navigation"](./assets/images/Screenshot%202022-12-22%20at%208.42.26%20AM.png)
+
+![alt="Middle portion of the webpage"](./assets/images/Screenshot%202022-12-22%20at%208.42.59%20AM.png)
+
+![alt="Bottom portion of the webpage with navigation"](./assets/images/Screenshot%202022-12-22%20at%208.43.12%20AM.png)
 
 ## Link to site
 https://jancypp.github.io/week1-challenge/
 
 ## Link to Github repository
 https://github.com/jancypp/week1-challenge
+
+# License
+Refer to the license in the repo
